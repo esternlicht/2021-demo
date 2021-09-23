@@ -1,0 +1,21 @@
+h1 {
+	color: #3D3596;
+}
+
+.container {
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.images {
+	display: block;
+	margin: 0 auto;
+}
+
+.text {
+	text-transform: uppercase;
+}
+
+#zoo {
+	color: blue;
+}
